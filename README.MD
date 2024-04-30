@@ -6,8 +6,7 @@
 
 # Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
-## Neste projeto iremos morstrar passo à passo como funciona reconhecimento facial 😁 reconhecimento de escrita ✍🏾 🚀
-
+## Neste projeto iremos morstrar passo à passo os recursos do Copilot
 --------------------------------------------------
 
 
